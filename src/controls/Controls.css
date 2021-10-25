@@ -1,0 +1,10 @@
+#control-panel {
+  display: flex;
+  justify-content: space-evenly;
+  max-width: 400px;
+}
+
+button {
+  width: 60px;
+}
+

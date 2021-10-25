@@ -1,0 +1,12 @@
+.half-width {
+  display: inline-block;
+  width: 50%;
+}
+
+.App {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
